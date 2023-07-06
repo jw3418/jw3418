@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-![jw3418's GitHub stats](https://github-readme-stats.vercel.app/api?username=jw3418&show_icons=true&theme=dracula)
-
+#### Solved.ac Profile
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jw3418)](https://solved.ac/jw3418)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jw3418&layout=compact&theme=dracula)
-
+#### TIL blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jw3418)](https://velog.io/@jw3418) 
 <!--
 **jw3418/jw3418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
