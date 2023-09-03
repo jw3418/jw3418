@@ -1,11 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=E%20will%20win!&fontSize=90&animation=twinkling)
 
 #### 🐣 TIL blog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jw3418)](https://velog.io/@jw3418) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jw3418&color=dark)](https://velog.io/@jw3418)
 
 #### 🐥 Solved.ac Profile
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jw3418)](https://solved.ac/jw3418)
 
+#### 🐥 GitHub Stats
+ <img src="https://github-readme-stats.vercel.app/api?username=jw3418&show_icons=true&theme=테마 종류">
 
 <!--
 #### 🐥 GitHub stats
