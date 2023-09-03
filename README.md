@@ -7,7 +7,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jw3418)](https://solved.ac/jw3418)
 
 #### 🐥 GitHub Stats
- <img src="https://github-readme-stats.vercel.app/api?username=jw3418&show_icons=true&theme=테마 종류">
+ <img src="https://github-readme-stats.vercel.app/api?username=jw3418&show_icons=true&theme=dracula">
 
 <!--
 #### 🐥 GitHub stats
