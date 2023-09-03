@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=E%20will%20win!&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#0067a3&height=200&section=header&text=E%20will%20win!&fontSize=90&animation=twinkling)
 
 #### 🐣 TIL blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jw3418&color=dark)](https://velog.io/@jw3418)
