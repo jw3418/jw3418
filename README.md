@@ -4,7 +4,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jw3418&color=dark)](https://velog.io/@jw3418)
 
 #### 🐥 Solved.ac Profile
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jw3418)](https://solved.ac/jw3418)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jw3418)](https://solved.ac/jw3418) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jw3418&theme=cold)
 
 #### 🐥 GitHub Stats
  <img src="https://github-readme-stats.vercel.app/api?username=jw3418&show_icons=true&theme=dracula">
