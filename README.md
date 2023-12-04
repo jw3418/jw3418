@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=200&section=header&text=E%20will%20win!&fontSize=90&animation=twinkling&fontColor=#ffffff)
 
 #### 🐥 Solved.ac Profile
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jw3418)](https://solved.ac/jw3418)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jw3418)](https://solved.ac/jw3418/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jw3418&theme=cold)
 
 #### 🐥 GitHub Stats
