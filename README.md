@@ -17,8 +17,4 @@
 ### 🛠 Tech Stack
 <img src="https://skillicons.dev/icons?i=linux,cpp,python,java,kotlin,mysql,git,aws,azure,gcp,docker,kubernetes&theme=light" />
 
----
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jw3418&theme=github-dark&hide_border=true" />
-
 </div>
