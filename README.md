@@ -1,24 +1,24 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=200&section=header&text=E%20will%20win!&fontSize=90&animation=twinkling&fontColor=#ffffff)
+<div align="center">
 
-#### 🐥 Solved.ac Profile
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jw3418)](https://solved.ac/jw3418/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=jw3418&theme=cold)
+### 👋 Hi, I'm **Jaewon**
+**Software Engineer**
 
+---
 
-<!--
-#### 🐥 GitHub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jw3418&show_icons=true&theme=radical)
+### 🐥 Solved.ac
+<div align="center">
+  <img height="150" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jw3418" />
+  &nbsp;&nbsp;
+  <img height="150" src="https://streak-stats.demolab.com?user=jw3418&theme=dark&hide_border=true" />
+</div>
 
-**jw3418/jw3418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+<img src="https://skillicons.dev/icons?i=linux,cpp,python,java,kotlin,mysql,git,aws,azure,gcp,docker,kubernetes&theme=light" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jw3418&theme=github-dark&hide_border=true" />
+
+</div>
