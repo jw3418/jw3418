@@ -1,7 +1,8 @@
 <div align="center">
 
 ### 👋 Hi, I'm **Jaewon**
-**class SoftwareEngineer { @Autowired private Coffee coffee; }**
+
+`class SoftwareEngineer { @Autowired private Coffee coffee; }`
 
 ---
 
