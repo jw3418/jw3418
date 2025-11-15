@@ -2,11 +2,21 @@
 
 ### 👋 Hi, I'm **Jaewon**
 
-`class SoftwareEngineer { @Autowired private Coffee coffee; }`
+</div>
+
+```java
+class SoftwareEngineer {
+    @Autowired private Coffee coffee;
+    @Autowired private Cigarette cigarette;
+}
+```
 
 ---
 
+<div align="center">
+
 ### 🐥 Solved.ac
+
 <div align="center">
   <img height="150" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jw3418" />
   &nbsp;&nbsp;
@@ -16,6 +26,7 @@
 ---
 
 ### 🛠 Tech Stack
+
 <img src="https://skillicons.dev/icons?i=linux,cpp,python,java,kotlin,mysql,git,aws,azure,gcp,docker,kubernetes&theme=light" />
 
 </div>
