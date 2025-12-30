@@ -4,13 +4,6 @@
 
 </div>
 
-```java
-class SoftwareEngineer {
-    @Autowired private Coffee coffee;
-    @Autowired private Cigarette cigarette;
-}
-```
-
 ---
 
 <div align="center">
